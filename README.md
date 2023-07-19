@@ -4,10 +4,6 @@
 <a href="https://www.instagram.com/suryaa_adjii">
     <img align="left" alt="suryaInstagram" width="35px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">
 </a>
-<a href="https://www.linkedin.com/in/mochamad-surya-aji-sumbaga-558b0b225/">
-  <img align="left" alt="suryaLinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
@@ -79,19 +75,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-          
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surya-aji&show_icons=true&theme=gotham" alt="surya-aji" />
 
 
 
